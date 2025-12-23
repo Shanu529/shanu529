@@ -20,7 +20,6 @@ I actively explore **multiple domains** because I enjoy understanding technology
 ---
 
 ## 🧠 Engineering Areas I’m Learning
-## 🧠 Engineering Areas I’m Learning
 
 - ⚙️ **System Design**  
   Designing scalable systems by understanding API design, database selection, caching strategies, load handling, consistency models, and trade-offs between performance, cost, and reliability.
