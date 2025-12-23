@@ -1,61 +1,50 @@
-<h1 align="center">Hi 👋, I'm Shanu Chhetri</h1>
-<h3 align="center">Tech Enthusiast | Full Stack Developer | BCA Student</h3>
+<h1 align="center">Hi, I'm Shanu Chhetri 👋</h1>
 
 <p align="center">
-  🚀 Passionate about building real-world projects <br/>
-  🌱 Currently learning Backend, System Design & AI <br/>
-  🎯 Goal: Software Engineer
+  Tech Enthusiast | Developer | BCA Student <br/>
+  Passionate about learning, building, and improving every day.
 </p>
 
 ---
 
-## 🔥 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shanu529&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanu529&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Shanu529/Spotify-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanu529&repo=Spotify-clone&theme=radical" />
-  </a>
-  <a href="https://github.com/Shanu529/video-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanu529&repo=video-Platform&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shanu529/NextGen-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanu529&repo=NextGen-AI&theme=radical" />
-  </a>
-  <a href="https://github.com/Shanu529/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shanu529&repo=Portfolio&theme=radical" />
-  </a>
-</p>
+- 🎓 BCA student aspiring Software Engineer  
+- 💻 Focused on **Full-Stack Web Development**  
+- 🛠 Love building real-world, practical projects  
+- 🌱 Currently improving backend & system thinking  
+- 🎯 Goal: Strong developer fundamentals + job-ready skills  
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I Work With
 
-- **Frontend:** React, JavaScript, Tailwind CSS  
+- **Languages:** JavaScript  
+- **Frontend:** React, Tailwind CSS  
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB  
 - **Tools:** Git, GitHub, Postman  
 
 ---
 
-## 📫 Connect With Me
+## 📌 Selected Projects
+
+- **Spotify Clone** – UI-focused music app  
+- **Video Platform** – Scalable content platform  
+- **NextGen AI** – AI-powered web application  
+- **Portfolio Website** – Personal developer portfolio  
+
+(Details inside repositories)
+
+---
+
+## 📫 Contact
 
 - 📧 Email: **shanu.chhetri529@gmail.com**
-- 🌍 Location: **India**
+- 📍 India
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider following me!
+  Thanks for visiting my profile.
 </p>
