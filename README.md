@@ -1,7 +1,7 @@
 <h1 align="center">Shanu Chhetri</h1>
 
 <p align="center">
-  Software Engineering Learner • Full-Stack Developer • Computer Science (BCA) Student
+  Software Engineering Learner • Full-Stack Developer • Computer Science Student
 </p>
 
 <p align="center">
