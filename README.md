@@ -20,36 +20,25 @@ I actively explore **multiple domains** because I enjoy understanding technology
 ---
 
 ## 🧠 Engineering Areas I’m Learning
+⚙️ System Design – APIs, databases, caching, scalability, and trade-offs
 
-- ⚙️ **System Design**  
-  Designing scalable systems by understanding API design, database selection, caching strategies, load handling, consistency models, and trade-offs between performance, cost, and reliability.
+📊 DSA (Java) – Problem-solving, complexity analysis, clean solutions
 
-- 📊 **DSA with Java**  
-  Strengthening problem-solving ability through data structures and algorithms, focusing on logic building, time–space complexity analysis, and writing efficient, readable solutions.
+🧩 Software Engineering – SOLID principles, clean & maintainable code
 
-- 🧩 **Software Engineering Principles**  
-  Writing clean, maintainable, and extensible code using principles such as SOLID, DRY, separation of concerns, abstraction, and modular design.
+🏗 Architecture Patterns – MVC, layered and modular backend design
 
-- 🏗 **Architecture Patterns**  
-  Studying MVC, layered architecture, and modular backend design to build systems that are scalable, testable, and easy to maintain.
+🔌 API & Backend Design – REST APIs, validation, errors, versioning
 
-- 🔌 **API Design & Backend Contracts**  
-  Designing clear and consistent APIs, understanding request–response lifecycles, versioning, error handling, and data validation.
+🔐 Security Basics – Auth, JWT, secure APIs, input validation
 
-- 🔐 **Security Fundamentals**  
-  Learning authentication and authorization concepts, secure API practices, token-based access (JWT), input validation, and common security pitfalls.
+⚡ Performance – Query optimization, indexing, caching fundamentals
 
-- ⚡ **Performance & Optimization**  
-  Understanding performance bottlenecks, efficient database queries, indexing, caching basics, and backend optimization techniques.
+🧪 Testing & Debugging – Debugging logic, handling edge cases
 
-- 🧪 **Testing & Debugging**  
-  Learning how to test backend logic, debug production issues, handle edge cases, and write code that is easier to verify and maintain.
+☁️ Deployment Basics – Env configs, CI/CD concepts, containers
 
-- ☁️ **Deployment & Infrastructure Basics**  
-  Exploring how applications are deployed, environment configuration, container basics, CI/CD concepts, and infrastructure awareness.
-
-- 📐 **Code Quality & Maintainability**  
-  Focusing on readable code, meaningful naming, consistent structure, and long-term maintainability rather than short-term solutions.
+📐 Code Quality – Readable, structured, maintainable code
 
 
 ---
