@@ -1,118 +1,96 @@
-<h1 align="center">Shanu Chhetri</h1>
+<h1 align="center">Shanu Chhetri</h1> <p align="center"> Software Engineering Learner • Full-Stack Developer • Computer Science Student </p> <p align="center"> Curious across domains — learning beyond a single stack, beyond comfort, and beyond limits. </p>
+👨‍💻 About Me
 
-<p align="center">
-  Software Engineering Learner • Full-Stack Developer • Computer Science Student
-</p>
+I am deeply interested in software engineering as a discipline, not limited to a single technology or domain.
+I enjoy understanding how systems work end-to-end — from frontend interfaces to backend services, databases, and application architecture.
 
-<p align="center">
-  Curious across domains — learning beyond a single stack, beyond comfort, and beyond limits.
-</p>
+I actively explore multiple areas of computer science to build a strong foundation and understand technology beyond surface-level implementation.
 
----
+🧠 Engineering Areas I’m Learning
 
-## 👨‍💻 About Me
+⚙️ System Design
+Learning how scalable systems are designed by studying APIs, database choices, caching strategies, and trade-offs between performance, reliability, and cost.
 
-I am deeply interested in **software engineering as a discipline**, not restricted to one technology or domain.  
-I enjoy learning how different systems work — from frontend interfaces to backend services, databases, infrastructure, and architecture.
+📊 Data Structures & Algorithms (Java)
+Strengthening problem-solving skills through structured DSA practice, with focus on logic building, time–space complexity, and clean implementations.
 
-I actively explore **multiple domains** because I enjoy understanding technology **beyond boundaries**, pushing my learning capacity beyond what is required.
+🧩 Software Engineering Principles
+Writing clean, maintainable, and extensible code using SOLID principles, abstraction, separation of concerns, and modular design.
 
----
+🏗 Architecture Patterns
+Exploring MVC, layered architecture, and modular backend patterns to build scalable, testable, and maintainable systems.
 
-## 🧠 Engineering Areas I’m Learning
-⚙️ System Design – APIs, databases, caching, scalability, and trade-offs
+🔌 API Design & Backend Development
+Designing RESTful APIs with proper request–response handling, validation, error management, and consistent contracts.
 
-📊 DSA (Java) – Problem-solving, complexity analysis, clean solutions
+🔐 Security Fundamentals
+Understanding authentication and authorization, JWT-based access control, secure API practices, and common backend security issues.
 
-🧩 Software Engineering – SOLID principles, clean & maintainable code
+⚡ Performance & Optimization
+Learning about performance bottlenecks, database query optimization, indexing strategies, and basic caching techniques.
 
-🏗 Architecture Patterns – MVC, layered and modular backend design
+🧪 Testing & Debugging
+Improving debugging skills, handling edge cases, and writing code that is easier to test and maintain.
 
-🔌 API & Backend Design – REST APIs, validation, errors, versioning
+☁️ Deployment & Infrastructure Basics
+Gaining awareness of application deployment, environment configuration, CI/CD concepts, containers, and infrastructure fundamentals.
 
-🔐 Security Basics – Auth, JWT, secure APIs, input validation
+📐 Code Quality & Maintainability
+Focusing on readable code, meaningful naming, consistent structure, and long-term maintainability over quick solutions.
 
-⚡ Performance – Query optimization, indexing, caching fundamentals
+💻 Development Stack
+🎨 Frontend
 
-🧪 Testing & Debugging – Debugging logic, handling edge cases
+React – Component-based UI development and application structure
 
-☁️ Deployment Basics – Env configs, CI/CD concepts, containers
+JavaScript – Language fundamentals, async programming, and browser behavior
 
-📐 Code Quality – Readable, structured, maintainable code
+Tailwind CSS – Utility-first styling and responsive UI design
 
+⚙️ Backend
 
----
+Node.js – Event-driven backend development and concurrency handling
 
-## 💻 Development Stack (In Detail)
+Express.js – REST APIs, middleware, routing, and error handling
 
-### 🎨 Frontend
+Authentication & Authorization – JWT, protected routes, role-based access
 
-- **React**  
-  Component-based UI development, state management, reusable components, and application structure.
+🗄 Database
 
-- **JavaScript**  
-  Core language fundamentals, asynchronous programming, event handling, and browser behavior.
+MongoDB – Document-based storage and query optimization
 
-- **Tailwind CSS**  
-  Utility-first styling, responsive layouts, consistent UI design, and clean component styling.
+Schema Design & Data Modeling – Relationships, indexing, and scalable data structures
 
----
+🛠 Tools & Environment
 
-### ⚙️ Backend
+Git & GitHub
 
-- **Node.js**  
-  Event-driven backend development, handling concurrent requests, and building scalable server-side applications.
+Postman
 
-- **Express.js**  
-  REST API development, middleware architecture, routing, error handling, and request lifecycle management.
+Linux fundamentals
 
-- **RESTful APIs**  
-  Designing structured endpoints, HTTP methods, status codes, request/response patterns, and API consistency.
+Docker (basics)
 
-- **Authentication & Authorization**  
-  User authentication flows, token-based security (JWT), role-based access control, and protected routes.
+CI/CD concepts
 
----
+Environment configuration & deployment workflows
 
-### 🗄 Database
+📌 Selected Work
 
-- **MongoDB**  
-  NoSQL database usage, document-based storage, and performance-aware querying.
+Spotify Clone – Frontend structure and UI flows
 
-- **Schema Design & Data Modeling**  
-  Designing schemas, relationships, indexing strategies, and structuring data for scalability and clarity.
+Video Platform – Backend APIs and content handling
 
----
+NextGen AI – AI-integrated web application
 
-## 🛠 Tools & Environment
+Portfolio Website – Technical self-presentation
 
-- Git & GitHub (version control, collaboration)
-- Postman (API testing & debugging)
-- Linux fundamentals
-- Docker (container basics)
-- CI/CD concepts
-- Environment configuration & deployment workflows
+Each project is built with focus on understanding internal system behavior, not just visuals.
 
----
+📫 Contact
 
-## 📌 Selected Work
+📧 shanu.chhetri529@gmail.com
 
-- **Spotify Clone** – frontend structure & UI flows  
-- **Video Platform** – backend APIs & content handling  
-- **NextGen AI** – AI-integrated web application  
-- **Portfolio Website** – technical self-presentation  
+📍 India
 
-(Each project is built with focus on **learning internal workings**, not just visuals.)
-
----
-
-## 📫 Contact
-
-- 📧 **shanu.chhetri529@gmail.com**
-- 📍 India
-
----
-
-<p align="center">
-  Exploring systems. Understanding fundamentals. Learning without limits.
-</p>
+<p align="center"> Exploring systems. Understanding fundamentals. Learning without limits. </p>
