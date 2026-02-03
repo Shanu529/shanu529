@@ -1,44 +1,73 @@
-<h1 align="center">Shanu Chhetri</h1> <p align="center">Software Engineering Learner • Full-Stack Developer • Computer Science Student</p> <p align="center">Curious about systems, fundamentals, and real-world engineering.</p>
-👨‍💻 About Me
+<h1 align="center">Shanu Chhetri</h1>
 
-I’m a computer science student with a strong interest in software engineering as a discipline, not just a single stack.
-I enjoy understanding how systems work end-to-end — from frontend interfaces to backend services, databases, and architecture.
+<p align="center">
+  Software Engineering Learner • Full-Stack Developer • Computer Science Student
+</p>
 
-🧠 What I’m Learning
+<p align="center">
+  Curious about systems, fundamentals, and real-world engineering.
+</p>
 
-System Design – APIs, scalability, caching, and architectural trade-offs
+---
 
-Data Structures & Algorithms (Java) – Logic building and complexity analysis
+## 👨‍💻 About Me
 
-Backend Engineering – REST APIs, validation, error handling, and security
+I’m a computer science student with a strong interest in **software engineering as a discipline**, not just a single tech stack.
 
-Software Engineering Principles – Clean code, SOLID, modular design
+I enjoy understanding how systems work **end-to-end** — from frontend interfaces to backend services, databases, and overall architecture.
 
-Performance & Optimization – Database queries, indexing, basic caching
+---
 
-Deployment Basics – Docker, CI/CD concepts, environment configuration
+## 🧠 What I’m Learning
 
-💻 Tech Stack
+- **System Design** – APIs, scalability, caching, architectural trade-offs  
+- **Data Structures & Algorithms (Java)** – Logic building and complexity analysis  
+- **Backend Engineering** – REST APIs, validation, error handling, security  
+- **Software Engineering Principles** – Clean code, SOLID, modular design  
+- **Performance & Optimization** – Database queries, indexing, basic caching  
+- **Deployment Basics** – Docker, CI/CD concepts, environment configuration  
 
-Frontend: React, JavaScript, Tailwind CSS
-Backend: Node.js, Express.js, JWT Authentication
-Database: MongoDB (schema design & indexing)
-Tools: Git, GitHub, Postman, Linux, Docker (basics)
+---
 
-📌 Projects
+## 💻 Tech Stack
 
-Spotify Clone – Frontend architecture & UI flows
+**Frontend**  
+- React  
+- JavaScript  
+- Tailwind CSS  
 
-Video Platform – Backend APIs & content handling
+**Backend**  
+- Node.js  
+- Express.js  
+- JWT Authentication  
 
-NextGen AI – AI-integrated web application
+**Database**  
+- MongoDB (schema design & indexing)  
 
-Portfolio Website – Technical self-presentation
+**Tools**  
+- Git & GitHub  
+- Postman  
+- Linux  
+- Docker (basics)  
 
-📫 Contact
+---
 
-📧 shanu.chhetri529@gmail.com
+## 📌 Projects
 
-📍 India
+- **Spotify Clone** – Frontend architecture & UI flows  
+- **Video Platform** – Backend APIs & content handling  
+- **NextGen AI** – AI-integrated web application  
+- **Portfolio Website** – Technical self-presentation  
 
-<p align="center">Building systems. Learning fundamentals. Growing as an engineer.</p>
+---
+
+## 📫 Contact
+
+- 📧 Email: **shanu.chhetri529@gmail.com**  
+- 📍 Location: **India**
+
+---
+
+<p align="center">
+  Building systems. Learning fundamentals. Growing as an engineer.
+</p>
