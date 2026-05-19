@@ -11,7 +11,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=00C6FF&lines=Software+Engineering+Learner;Full-Stack+Developer;Backend+Focused+Engineer;System+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=00C6FF&lines=Software+Developer;Full-Stack+Developer;Backend+Focused+Engineer;System+Design+Enthusiast" />
 </p>
 
 <p align="center">
